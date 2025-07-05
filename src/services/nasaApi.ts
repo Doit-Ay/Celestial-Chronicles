@@ -1,4 +1,4 @@
-const NASA_API_KEY = 'HGGtHTnr7nB1FPIxXLkA2ShFEzppGVuoUzXTgHHE';
+const NASA_API_KEY = 'Enter your API key';
 const NASA_BASE_URL = 'https://api.nasa.gov';
 
 export interface NASAImageResult {
