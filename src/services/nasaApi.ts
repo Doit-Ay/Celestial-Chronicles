@@ -1,4 +1,4 @@
-const NASA_API_KEY = 'Replace your nasa API key';
+const NASA_API_KEY = 'YOUR_NASA_API_KEY_HERE';
 const NASA_BASE_URL = 'https://api.nasa.gov';
 
 export interface NASAImageResult {
