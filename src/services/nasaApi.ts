@@ -1,4 +1,4 @@
-const NASA_API_KEY = 'Enter your API key';
+const NASA_API_KEY = process.env.REACT_APP_NASA_API_KEY; 
 const NASA_BASE_URL = 'https://api.nasa.gov';
 
 export interface NASAImageResult {
